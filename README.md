@@ -15,3 +15,6 @@ I aspire to be a solution architect some day.
 
 * [StackShare](https://stackshare.io/Ilshidur/personal-stack)
 * [KeyBase](https://keybase.io/ilshidur)
+* [LinkedIn](https://www.linkedin.com/in/nicolascoutin)
+* [npm](https://www.npmjs.com/~ilshidur)
+* [StackOverflow](https://stackoverflow.com/story/nicolas-coutin)
