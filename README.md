@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi !
 
-<!--
-**Ilshidur/Ilshidur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nicolas, and I'm 25.
 
-Here are some ideas to get you started:
+I'm a full stack developer. I mainly use **Node.js** and **Vue**, and formerly used React, PHP & jQuery.
+Modernity is a special interest of mine, so I keep myself updated by attending multiple public events like meetups or conferences. My current whim is **cloud architectures and distributed systems**.
+My ultimate goal is to keep aiming for better skills and continuously improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also interested by the DevOps philosophy, that I practice on **Terraform**, **Ansible** & **Kubernetes**.
+I consider myself a Jack of all trades, as I often develop interests in areas close to mine and I like expanding my confort zone. I accept responsibilities and all challenges.
+
+I aspire to be a solution architect some day.
+
+*<p align="center">You can find me on :</p>*
+
+* [StackShare](https://stackshare.io/Ilshidur/personal-stack)
+* [KeyBase](https://keybase.io/ilshidur)
