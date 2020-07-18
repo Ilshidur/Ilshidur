@@ -11,7 +11,7 @@ I consider myself a Jack of all trades, as I often develop interests in areas cl
 
 I aspire to be a solution architect some day.
 
-*<p align="center">You can find me on :</p>*
+### My links
 
 * [StackShare](https://stackshare.io/Ilshidur/personal-stack)
 * [KeyBase](https://keybase.io/ilshidur)
@@ -21,8 +21,10 @@ I aspire to be a solution architect some day.
 
 ### My current project(s)
 
-* Creating my own AS.
-* Seting up IaC on my OPNsense router.
+*Feel free to [open an issue](https://github.com/Ilshidur/Ilshidur/issues/new?title=Suggestion%20on%20one%20of%20your%20projects) if you have suggestions for me ! I would be very happy to talk about it.*
+
+* Creating my own AS and buy my own IPs.
+* Setting up IaC on my OPNsense router (Napalm ? Ansible ? Both ?).
 * Incoming new blog posts.
 * Websites for people I know.
 * Set up Traefik in front of my main public IP, in my NAS.
