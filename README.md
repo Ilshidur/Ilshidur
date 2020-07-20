@@ -25,7 +25,7 @@ I aspire to be a solution architect some day.
 
 * Creating my own AS and buy my own IPs.
 * Setting up IaC on my OPNsense router (Napalm ? Ansible ? Both ?).
-* Incoming new blog posts.
+* [Incoming new blog posts.](https://github.com/Ilshidur/blog.nicolas-coutin.com/projects/1)
 * Websites for people I know.
 * Set up Traefik in front of my main public IP, in my NAS.
 * Create my own Usenet indexer with 3 space external hard drives & fix my Radarr/Sonarr setup using this.
