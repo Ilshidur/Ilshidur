@@ -28,6 +28,6 @@ I aspire to be a solution architect some day.
 * [Incoming new blog posts.](https://github.com/Ilshidur/blog.nicolas-coutin.com/projects/1)
 * Websites for people I know.
 * Set up Traefik in front of my main public IP, in my NAS.
-* Create my own Usenet indexer with 3 space external hard drives & fix my Radarr/Sonarr setup using this.
+* Create my own Usenet indexer with 3 spare external hard drives & fix my Radarr/Sonarr setup using this indexer.
 
 *[> More in my personal Kanban <](https://github.com/users/Ilshidur/projects/5)*
