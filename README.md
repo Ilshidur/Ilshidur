@@ -1,6 +1,7 @@
 ### Hi !
 
-I'm Nicolas, and I'm 25.
+<!--Ilshidur:OVERVIEW:start-->
+I'm Nicolas, and I'm <!--Ilshidur:AGE:start-->25<!--Ilshidur:AGE:end-->.
 
 I'm a full stack developer. I mainly use **Node.js** and **Vue**, and formerly used React, PHP & jQuery.
 Modernity is a special interest of mine, so I keep myself updated by attending multiple public events like meetups or conferences. My current whim is **cloud architectures and distributed systems**.
@@ -10,6 +11,7 @@ I'm also interested by the DevOps philosophy, that I practice on **Terraform**, 
 I consider myself a Jack of all trades, as I often develop interests in areas close to mine and I like expanding my confort zone. I accept responsibilities and all challenges.
 
 I aspire to be a solution architect some day.
+<!--Ilshidur:OVERVIEW:end-->
 
 ### My links
 
