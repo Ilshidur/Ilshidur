@@ -25,6 +25,7 @@ I aspire to be a solution architect some day.
 
 *Feel free to [open an issue](https://github.com/Ilshidur/Ilshidur/issues/new?title=Suggestion%20on%20one%20of%20your%20projects) if you have suggestions for me ! I would be very happy to talk about it.*
 
+* Pass certifications.
 * Creating my own AS and buy my own IPs.
 * Setting up IaC on my OPNsense router (Napalm ? Ansible ? Both ?).
 * [Incoming new blog posts.](https://github.com/Ilshidur/blog.nicolas-coutin.com/projects/1)
