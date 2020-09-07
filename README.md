@@ -15,6 +15,7 @@ I aspire to be a solution architect some day.
 
 ### My links
 
+* [Dev.to](https://dev.to/ilshidur)
 * [StackShare](https://stackshare.io/Ilshidur/personal-stack)
 * [KeyBase](https://keybase.io/ilshidur)
 * [LinkedIn](https://www.linkedin.com/in/nicolascoutin)
