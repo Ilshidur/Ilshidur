@@ -1,7 +1,7 @@
 ### Hi !
 
 <!--Ilshidur:OVERVIEW:start-->
-I'm Nicolas, and I'm <!--Ilshidur:AGE:start-->25<!--Ilshidur:AGE:end-->.
+I'm Nicolas, and I'm <!--Ilshidur:AGE:start-->26<!--Ilshidur:AGE:end-->.
 
 I'm a full stack developer. I mainly use **Node.js** and **Vue**, and formerly used React, PHP & jQuery.
 Modernity is a special interest of mine, so I keep myself updated by attending multiple public events like meetups or conferences. My current whim is **cloud architectures and distributed systems**.
