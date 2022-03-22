@@ -26,12 +26,4 @@ I aspire to be a solution architect some day.
 
 *Feel free to [open an issue](https://github.com/Ilshidur/Ilshidur/issues/new?title=Suggestion%20on%20one%20of%20your%20projects) if you have suggestions for me ! I would be very happy to talk about it.*
 
-* Pass the Node.js certification I just bought.
-* Creating my own AS and buy my own IPs.
-* Setting up IaC on my OPNsense router (Napalm ? Ansible ? Both ?).
-* [Incoming new blog posts.](https://github.com/Ilshidur/blog.nicolas-coutin.com/projects/1)
-* Websites for people I know.
-* Set up Traefik in front of my main public IP, in my NAS.
-* Create my own Usenet indexer with 3 spare external hard drives & fix my Radarr/Sonarr setup using this indexer.
-
-*[> More in my personal Kanban <](https://github.com/users/Ilshidur/projects/5)*
+https://github.com/users/Ilshidur/projects/5
