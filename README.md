@@ -20,7 +20,7 @@ I aspire to be a solution architect some day.
 * [KeyBase](https://keybase.io/ilshidur)
 * [LinkedIn](https://www.linkedin.com/in/nicolascoutin)
 * [npm](https://www.npmjs.com/~ilshidur)
-* [StackOverflow](https://stackoverflow.com/story/nicolas-coutin)
+* [StackOverflow]([https://stackoverflow.com/story/nicolas-coutin](https://stackoverflow.com/users/4022804/ilshidur?tab=profile))
 
 ### My current project(s)
 
