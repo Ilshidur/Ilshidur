@@ -21,3 +21,4 @@
 * Golang desktop app experimenting low-level Windows audio APIs (WASAPI...) : [_(preview)_](https://github.com/Ilshidur/Ilshidur/blob/master/pinkaudio-preview.png)
 * Various Twitter bots, like [🎶 The daily breakdown bot 🎸 (discontinued)](https://twitter.com/The_Daily_Break).
 * A lot of stuff for my homelab.
+* Entry-level software cracking.
