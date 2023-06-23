@@ -22,3 +22,5 @@
 * Various Twitter bots, like [🎶 The daily breakdown bot 🎸 (discontinued)](https://twitter.com/The_Daily_Break).
 * A lot of stuff for my homelab.
 * Entry-level software cracking.
+
+Currently working on : https://www.twitch.tv/NounoursPartEnLive.
