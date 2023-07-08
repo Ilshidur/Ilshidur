@@ -20,7 +20,7 @@
 * Various AI-based voice conversion experiments, like [rvc-v2-crepe-docker](https://github.com/Ilshidur/rvc-v2-crepe-docker).
 * Golang desktop app experimenting low-level Windows audio APIs (WASAPI...) : [_(preview)_](https://github.com/Ilshidur/Ilshidur/blob/master/pinkaudio-preview.png)
 * Various Twitter bots, like [🎶 The daily breakdown bot 🎸 (discontinued)](https://twitter.com/The_Daily_Break).
-* A lot of stuff for my homelab.
-* Entry-level software cracking.
+* A lot of stuff for my homelab (OPNsense, Plex + Radarr/Sonarr, lancache, Nextcloud, VLANs, smart switches, HomeAssistant, PiHole, Vault, Vaultwarden - using Ansible).
+* Entry-level software cracking, home made keygens.
 
 Currently working on : https://www.twitch.tv/NounoursPartEnLive.
