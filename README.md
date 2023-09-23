@@ -21,6 +21,6 @@
 * Golang desktop app experimenting low-level Windows audio APIs (WASAPI...) : [_(preview)_](https://github.com/Ilshidur/Ilshidur/blob/master/pinkaudio-preview.png)
 * Various Twitter bots, like [🎶 The daily breakdown bot 🎸 (discontinued)](https://twitter.com/The_Daily_Break).
 * A lot of stuff for my homelab (OPNsense, Plex + Radarr/Sonarr, lancache, Nextcloud, VLANs, smart switches, HomeAssistant, PiHole, Vault, Vaultwarden - using Ansible).
-* Entry-level software cracking, home made keygens.
+* Entry-level software cracking, home made keygens/patchers, experimenting lock picking, completed a few [Root Me challenges](https://www.root-me.org/Ilshidur).
 
-Currently working on : https://www.twitch.tv/NounoursPartEnLive.
+Currently working on : https://www.twitch.tv/NounoursPartEnLive + a home made virtual assistant.
