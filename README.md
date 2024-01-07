@@ -2,12 +2,8 @@
 
 ### My links
 
-* [Dev.to](https://dev.to/ilshidur)
-* [StackShare (needs an update)](https://stackshare.io/Ilshidur/personal-stack)
 * [KeyBase](https://keybase.io/ilshidur)
-* [LinkedIn](https://www.linkedin.com/in/nicolascoutin)
-* [npm](https://www.npmjs.com/~ilshidur)
-* [StackOverflow](https://stackoverflow.com/users/4022804/ilshidur?tab=profile)
+* [Dev.to](https://dev.to/ilshidur)
 
 ### Some of the few projects I've done aside from my pins :
 
@@ -21,6 +17,6 @@
 * Golang desktop app experimenting low-level Windows audio APIs (WASAPI...) : [_(preview)_](https://github.com/Ilshidur/Ilshidur/blob/master/pinkaudio-preview.png)
 * Various Twitter bots, like [🎶 The daily breakdown bot 🎸 (discontinued)](https://twitter.com/The_Daily_Break).
 * A lot of stuff for my homelab (OPNsense, Plex + Radarr/Sonarr, lancache, Nextcloud, VLANs, smart switches, HomeAssistant, PiHole, Vault, Vaultwarden - using Ansible).
-* Entry-level software cracking, home made keygens/patchers, experimenting lock picking, completed a few [Root Me challenges](https://www.root-me.org/Ilshidur).
+* Entry-level software cracking, home made keygens/patchers, completed a few [Root Me challenges](https://www.root-me.org/Ilshidur), hardware/firmware reverse engineering.
 
-Currently working on : https://www.twitch.tv/NounoursPartEnLive + a home made virtual assistant.
+Currently working on : a home made virtual assistant + a WebGL life simulation game.
