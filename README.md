@@ -4,7 +4,7 @@
 
 * My portfolio
   * https://nicolas-coutin.com
-  * http://ilshidurcsfq7l3vhykowudnpgn554cuxg3m7fnosxxgznxx6w6fqeqd.onion
+  * http://ilshidurcsfq7l3vhykowudnpgn554cuxg3m7fnosxxgznxx6w6fqeqd.onion ([proof](http://ilshidurcsfq7l3vhykowudnpgn554cuxg3m7fnosxxgznxx6w6fqeqd.onion/keybase.txt))
   * `.dn42` mirror is a work in progress.
 * [KeyBase](https://keybase.io/ilshidur)
 * [Dev.to](https://dev.to/ilshidur)
