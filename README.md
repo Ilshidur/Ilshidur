@@ -2,6 +2,10 @@
 
 ### My links
 
+* My portfolio
+  * https://nicolas-coutin.com
+  * http://ilshidurcsfq7l3vhykowudnpgn554cuxg3m7fnosxxgznxx6w6fqeqd.onion
+  * `.dn42` mirror is a work in progress.
 * [KeyBase](https://keybase.io/ilshidur)
 * [Dev.to](https://dev.to/ilshidur)
 
@@ -19,4 +23,4 @@
 * A lot of stuff for my homelab (OPNsense, Plex + Radarr/Sonarr, lancache, Nextcloud, VLANs, smart switches, HomeAssistant, PiHole, Vault, Vaultwarden - using Ansible).
 * Entry-level software cracking, home made keygens/patchers, completed a few [Root Me challenges](https://www.root-me.org/Ilshidur), hardware/firmware reverse engineering.
 
-Currently working on : a home made virtual assistant + a WebGL life simulation game.
+Currently working on : a home made virtual assistant + experimentations on overlay networks like DN42 or Tor.
