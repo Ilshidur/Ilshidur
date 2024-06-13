@@ -9,6 +9,8 @@
 * [KeyBase](https://keybase.io/ilshidur)
 * [Dev.to](https://dev.to/ilshidur)
 
+GPG : `8B9099F4B3900E67` ([keybase](https://keybase.io/ilshidur/pgp_keys.asc) | [github](https://github.com/Ilshidur.gpg))
+
 ### Some of the few projects I've done aside from my pins :
 
 * [**LoL Item Sets Generator** (discontinued)](https://web.archive.org/web/20190126084605/https://lol-item-sets-generator.org/) : a website that generates the best League of Legends items sets based on the top players picks.
