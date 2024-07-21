@@ -23,7 +23,7 @@ GPG : `8B9099F4B3900E67` ([keybase](https://keybase.io/ilshidur/pgp_keys.asc) | 
 * Golang desktop app experimenting low-level Windows audio APIs (WASAPI...) : [_(preview)_](https://github.com/Ilshidur/Ilshidur/blob/master/pinkaudio-preview.png)
 * Various Twitter bots, like [🎶 The daily breakdown bot 🎸 (discontinued)](https://twitter.com/The_Daily_Break).
 * A lot of stuff for my homelab (OPNsense + VyOS, VLANs, smart switches, Plex + Radarr/Sonarr, lancache, Nextcloud, HomeAssistant, PiHole, HashiCorp Vault, Vaultwarden - using Ansible).
-* DN42 : `AS4242421769`
+* [DN42](https://dn42.nicolas-coutin.com)
 * Entry-level software cracking, home made keygens/patchers, completed a few [Root Me challenges](https://www.root-me.org/Ilshidur), hardware/firmware reverse engineering.
 
 Currently working on : a home made virtual assistant + networking on DN42.
