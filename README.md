@@ -26,4 +26,4 @@ GPG : `8B9099F4B3900E67` ([keybase](https://keybase.io/ilshidur/pgp_keys.asc) | 
 * [DN42](https://dn42.nicolas-coutin.com)
 * Entry-level software cracking, home made keygens/patchers, completed a few [Root Me challenges](https://www.root-me.org/Ilshidur), hardware/firmware reverse engineering.
 
-Currently working on : a home made virtual assistant + networking on DN42.
+Currently working on : a home made virtual assistant + networking on DN42 + custom PCBs & 3D printing + nuclear decay experimentations.
