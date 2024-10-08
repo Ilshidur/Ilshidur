@@ -13,7 +13,7 @@ GPG : `8B9099F4B3900E67` ([keybase](https://keybase.io/ilshidur/pgp_keys.asc) | 
 
 ### Some of the few projects I've done aside from my pins :
 
-* [**LoL Item Sets Generator** (discontinued)](https://archive.nicolas-coutin.com/archive/1728312389.894324/singlefile.htmlhttps://archive.nicolas-coutin.com/archive/1728312389.894324/singlefile.html) : a website that generates the best League of Legends items sets based on the top players picks.
+* [**LoL Item Sets Generator** (discontinued)](https://archive.nicolas-coutin.com/archive/1728312389.894324/singlefile.html) : a website that generates the best League of Legends items sets based on the top players picks.
 * [My blog (kinda dead)](https://blog.nicolas-coutin.com).
 * [Wenta.fr](https://wenta.fr).
 * [Mjo Peintures](https://mjopeintures.com) (web integration outsourced).
